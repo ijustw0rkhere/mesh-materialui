@@ -10,7 +10,8 @@ Requires MeshCentral to be configured with the following options: (maybe not nig
 "domains": {
   "": {
     "hide": 5,
-    "nightMode": 1
+    "nightMode": 1,
+    "minify": false
   }
 },
 ```
