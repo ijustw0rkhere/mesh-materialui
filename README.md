@@ -5,7 +5,7 @@ Custom UI for MeshCentral based on Material UI
 
 # Installation guide (of this version):
 
-Clone this repository (if you have git installed)<br>
+Clone this repository (if you have git installed, if not: download it here: [Git Download](https://git-scm.com/downloads))<br>
 
 ```git clone https://github.com/DaanSelen/meshcentral-material```<br>
 
