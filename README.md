@@ -18,7 +18,7 @@ After that browse to your MeshCentral server IP or domain.
 
 The meshcentral-web folder, along with its custom files, must be placed in the root folder of your MeshCentral instance (where meshcentral-data and meshcentral-files).
 
-#End of Official repository Readme.
+# End of Official repository Readme.
 
 Notes (unclear instruction from main branch, will be looked into)
 
