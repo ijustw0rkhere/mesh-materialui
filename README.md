@@ -1,10 +1,10 @@
-# mesh-materialui
+# MeshCentral Material UI
 
 Custom UI for MeshCentral based on Material UI
 
-The meshcentral-web folder, along with its custom files, must be placed in the root folder of your MeshCentral instance alongside the meshcentral-data folder.
+The meshcentral-web folder, along with its custom files, must be placed in the root folder of your MeshCentral instance (where meshcentral-data and meshcentral-files).
 
-# notes
+# Notes (unclear instruction from main branch, will be looked into)
 
 Requires MeshCentral to be configured with the following options: (maybe not nightMode, but it was designed with that configured)
 
